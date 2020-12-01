@@ -1,0 +1,3 @@
+Predicting the returns:
+    Assuming we buy when the model predicts a positive return and sell when the model predicts a loss-
+     Predicted Balance: 242.4666019828374, Actual Balance: 276.21053977092913, Nostradamus: 276.21053977092913
